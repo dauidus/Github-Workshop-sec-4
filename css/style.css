@@ -5,8 +5,6 @@ html {
 	overflow-y: scroll;
 }
 body {
-	background-image: url("pilk.jpg");
-	background-repeat: repeat;
 	background-color: #15f4ee;
 	margin: 10px;
 	padding: 10px;
